@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header.png" alt="Enthusiast Newbie Banner" width="100%" style="border-radius: 10px;"/>
+<img src="header.png" alt="Enthusiast Newbie Banner" width="50%" style="border-radius: 10px;"/>
 
   # 👋 Ciao, sono Enthusiast Newbie!
 
